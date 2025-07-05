@@ -245,7 +245,7 @@ with st.sidebar:
         st.warning("Se emplean perfiles demo. Considera cargar 'synth_stats.pkl' para mayor realismo.")
 
      # ---- BOTÓN DE INFO Y MODAL ----
-    youtube_url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"  # Puedes cambiarlo por cualquier otro enlace
+    youtube_url = "https://github.com/0xRodrigo/fraud-detection-app" 
 
     st.sidebar.markdown(
         f"""
