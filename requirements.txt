@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+joblib
+scikit-learn
+plotly
+shap
+lime
+huggingface_hub
+python-dotenv
+requests
