@@ -686,7 +686,7 @@ st.markdown(f"""
     <br><br>
     <span style="display: inline-flex; align-items: center; gap: 22px; justify-content: center;">
         <span>
-            <a href="www.linkedin.com/in/rodrigo-ullauri" target="_blank" style="text-decoration: none;">
+            <a href="https://www.linkedin.com/in/rodrigo-ullauri/" target="_blank" style="text-decoration: none;">
                 <img src="https://media.licdn.com/dms/image/v2/D4E03AQGCVUD3mSOhhQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722727977537?e=1756944000&v=beta&t=nAH7MvB4bABSurVq748El2xW5KCizOq_bs3syJosVYc" alt="Rodrigo" style="width:80px; height:80px; border-radius:70%; border: 2.5px solid #0a66c2;">
                 <br>
                 <span style="color: #0a66c2; font-size:0.9em;">Rodrigo</span>
